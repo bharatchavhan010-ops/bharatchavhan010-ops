@@ -1,4 +1,4 @@
-![Frontend Developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
+
 
 # Welcome to my GitHub 👋
 
