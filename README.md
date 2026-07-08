@@ -8,17 +8,13 @@
 
 🌐 Portfolio: YOUR_PORTFOLIO_URL
 
-<a href="https://www.linkedin.com/in/bharat-chavhan-1149632bb">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+## 🌐 Connect with Me
 
-<a href="https://github.com/bharatchavhan010-ops">
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+💼 **LinkedIn:** [bharat-chavhan-1149632bb](https://www.linkedin.com/in/bharat-chavhan-1149632bb)
 
-<a href="mailto:bharatchavhan010@gmail.com">
-  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+💻 **GitHub:** [bharatchavhan010-ops](https://github.com/bharatchavhan010-ops)
+
+📧 **Email:** [bharatchavhan010@gmail.com](mailto:bharatchavhan010@gmail.com)
 
 <br/>
 <br/>
