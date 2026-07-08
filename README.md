@@ -6,7 +6,7 @@
 
 ### 🚀 Frontend Team Lead | React.js | Next.js | TypeScript | MERN Stack
 
-🌐 Portfolio: YOUR_PORTFOLIO_URL
+
 
 ## 🌐 Connect with Me
 
