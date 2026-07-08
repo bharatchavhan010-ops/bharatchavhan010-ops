@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-<img align="right" width="380" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="bottom" width="380" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ## 👨‍💻 About Me
 
